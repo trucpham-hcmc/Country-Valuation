@@ -10,3 +10,4 @@ Create CONN, DASH, PIVOT, DATA
 Create variable "country code" to consolidate Data
 Name table (header, index, table) 
 Practice Sumifs, Counti
+<img src="9d2bfce881277d792436.jpg"/>
