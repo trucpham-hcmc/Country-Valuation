@@ -43,7 +43,7 @@ Industry range calculation -\> Remove extreme value -\> Arrange PE Ratio
 of each company in each
 sector
 
-<img src='man/vietnam_earning_analysis/vietnam_earning_analysis_process.jpg' align="right" />
+
 
 ## Maintainer
 
