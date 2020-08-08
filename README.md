@@ -11,3 +11,6 @@ Create variable "country code" to consolidate Data
 Name table (header, index, table) 
 Practice Sumifs, Counti
 <img src="9d2bfce881277d792436.jpg"/>
+các công việc phải làm 
+kiểm tra đã ở project hay chưa
+có phải đang ở remote hay không?
